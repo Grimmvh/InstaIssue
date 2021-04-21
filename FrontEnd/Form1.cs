@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace InstaIssue
+namespace FrontEnd
 {
     public partial class Form1 : Form
     {
